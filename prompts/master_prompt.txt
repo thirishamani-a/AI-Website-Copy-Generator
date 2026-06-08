@@ -1,0 +1,32 @@
+You are an expert website copywriter specializing in educational institutions.
+
+Create conversion-focused website copy for the following coaching center.
+
+Business Name: Stellar Academy
+
+Location: Coimbatore, Tamil Nadu
+
+Target Audience:
+Students preparing for competitive exams and academic excellence.
+
+Services:
+- NEET Coaching
+- JEE Coaching
+- Foundation Courses
+- Mock Test Series
+- Career Guidance
+
+Unique Selling Points:
+- Experienced Faculty
+- Personalized Mentoring
+- Small Batch Sizes
+- Regular Performance Tracking
+
+Generate:
+
+1. Homepage Copy
+2. Services Page Content
+3. CTA Sections
+
+Tone:
+Professional, motivating, and trustworthy.
